@@ -1,0 +1,29 @@
+.header{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:15px 30px 20px gray;
+    overflow: hidden;
+    background-color: #FFF8DE;
+}
+.note{
+    white-space:pre-line;
+}
+canvas{
+border:2px solid black;
+border-radius:25% ;
+box-shadow:15px 30px 10px #181c1f ;
+}
+.footer{
+    background-color: #354f52;
+    bottom:0;
+    position: fixed;
+    width: 100%;
+    line-height:3;
+    font-size: 15px;
+    color: #EEF4F2;
+    text-align: center;
+}
+body{
+    background-color: #99A98F;
+}
